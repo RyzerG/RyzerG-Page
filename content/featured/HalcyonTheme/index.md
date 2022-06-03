@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'OnePanel'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/RyzerG/OverClocked-Services'
+external: 'https://onepanel.overclockedservices.ca'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - HTML/JS/CSS
+  - Node.js
+  - VSCode
+  - FireBase
+  - MySQL
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A new way to manage all your web services in one place. Manage DNS records, domain hosting and analytical API connections all in one dashboard. Available to OCS Customers on a Pro+ Plan [OCS One Panel](https://onepanel.overclockedservices.ca).
