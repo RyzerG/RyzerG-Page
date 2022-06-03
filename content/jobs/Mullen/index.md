@@ -1,12 +1,13 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2022-06-03'
+title: 'Freelance Developer'
+company: 'Fiverr International'
+location: 'Toronto, Ontario'
+range: 'August 2020 - Febuary 2022'
+url: 'https://fiverr.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Created Java Server environments for client development projects
+- Aided to increase customers overall current project completion progress
+- Contributed to client web and communication platforms and usage
+- Effectively integrated and linked payment gateways for online business sales
