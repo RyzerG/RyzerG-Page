@@ -58,13 +58,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hey there, my name is</h1>;
+  const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rohan Singh.</h2>;
-  const three = <h3 className="big-heading">I make applications for the online world.</h3>;
+  const three = <h3 className="big-heading">I design web solutions for businesses.</h3>;
   const four = (
     <>
       <p>
-        I’m a computer science student skilled in creating premium-tier
+        I’m a full-time Computer Science student based in Toronto, ON skilled in creating premium-tier
         digital designs and products. Currently, I’m focused on creating user-friendly interfaces, client projects
         at{' '}
         <a href="https://overclockedservices.ca/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/rohansingh24/"
       target="_blank"
       rel="noreferrer">
-      Check out my LinkedIn!
+      Get in Touch!
     </a>
   );
 
