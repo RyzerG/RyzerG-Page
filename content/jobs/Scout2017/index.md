@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2022-06-03'
+title: 'Chief Executive Officer'
+company: 'OverClocked Services'
+location: 'Toronto, Ontario'
+range: 'January 2021 - Present'
+url: 'https://overclockedservices.ca/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Providing professional-level network administration and development support
+- Presented offers regarding server hosting and design services to clientele
+- Maintaining and enhancing optimal network and overall service condition
+- Organizing and prioritizing to complete projects in a timely and efficient manner.
