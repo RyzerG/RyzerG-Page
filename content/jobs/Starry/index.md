@@ -1,7 +1,7 @@
 ---
 date: '2022-06-03'
 title: 'Business Development Manager'
-company: 'Current Motors Company'
+company: 'Current Motors'
 location: 'Toronto, Ontario'
 range: 'December 2021 - Present'
 url: 'https://currentmotors.ca/'
