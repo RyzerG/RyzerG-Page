@@ -1,5 +1,5 @@
 ---
-date: '2022-06-03'
+date: '1'
 title: 'Freelance Developer'
 company: 'Fiverr International'
 location: 'Toronto, Ontario'
