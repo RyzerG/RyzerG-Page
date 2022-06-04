@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Platinum Bot'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/RyzerG/Platinum-Bot'
+external: 'https://platinumbot.live/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Discord.py
+  - Python
+  - Hypixel API
+  - Node.js
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A new discord bot application that has various abilities to moderate the community server, perform fun games and connect with external game and web based APIs to recieve live and rich information regarding statuses and more.
