@@ -12,4 +12,4 @@ tech:
   - MySQL
 ---
 
-A new way to manage all your web services in one place. Manage DNS records, domain hosting and analytical API connections all in one dashboard. Available to OCS Customers on a Pro+ Plan [OCS One Panel](https://onepanel.overclockedservices.ca).
+A new way to manage all your web services in one place. Manage DNS records, domain hosting and API connections all in one dashboard. Available to OCS Customers on a Pro+ Plan [OCS One Panel](https://onepanel.overclockedservices.ca).
