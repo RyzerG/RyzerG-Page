@@ -1,5 +1,5 @@
 ---
-date: '2022-06-03'
+date: '2'
 title: 'Business Development Manager'
 company: 'Current Motors'
 location: 'Toronto, Ontario'
