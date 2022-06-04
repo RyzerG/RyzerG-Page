@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'rohan.s@rogers.com',
+  email: 'rohan@rohansingh.ca',
 
   socialMedia: [
     {
@@ -17,10 +17,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/rohansingh24',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 
