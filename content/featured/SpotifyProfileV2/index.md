@@ -1,16 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Create a Custom Smart Mirror'
+cover: './mirror.png'
+external: 'https://www.youtube.com/watch?app=desktop&v=OYlloiaBINo&ab_channel=BreakItYourself'
+cta: 'https://www.youtube.com/watch?app=desktop&v=OYlloiaBINo&ab_channel=BreakItYourself'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - Weather API
+  - Amazon AWS
+  - Raspberry Pi
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A smart mirror. Something most don't have but everyone needs. A self built glass mirror containing a display designed to assist you with your day to day tasks. Ranging from playing music, displaying weather and calander events and even showing your reflection. Inspired by Break It Yourself (YouTube).
