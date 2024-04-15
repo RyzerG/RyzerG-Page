@@ -1,13 +1,13 @@
 ---
 date: '3'
-title: 'Chief Executive Officer'
+title: 'Owner & Founder'
 company: 'OverClocked Services'
 location: 'Toronto, Ontario'
 range: 'January 2021 - Present'
 url: 'https://overclockedservices.ca/'
 ---
 
-- Providing professional-level network administration and development support
-- Presented offers regarding server hosting and design services to clientele
-- Maintaining and enhancing optimal network and overall service condition
-- Organizing and prioritizing to complete projects in a timely and efficient manner.
+- Led a team of network specialists in successfully delivering and managing client-server setups, ensuring 100% client satisfaction. 
+- Developed and presented strategic proposals for server hosting and design solutions, resulting in 25 new client acquisitions.
+- Optimized network performance and service uptime through proactive maintenance strategies, achieving a 30% reduction in downtime incidents.
+- Implemented efficient project management practices, prioritizing tasks, and ensuring project completion within deadlines and budget constraints.
