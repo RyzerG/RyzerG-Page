@@ -1,13 +1,12 @@
 ---
 date: '2'
-title: 'Business Development Manager'
-company: 'Current Motors'
-location: 'Toronto, Ontario'
-range: 'December 2021 - Present'
-url: 'https://currentmotors.ca/'
+title: 'Golf Operations'
+company: 'Summit Golf & Country Club'
+location: 'Richmond Hill, Ontario'
+range: 'August 2022 - October 2022'
+url: 'https://golfsummit.com/'
 ---
 
-- Managed front-end and back-end development in the company's Portfolio Analyst, Employee Track, and Account Management system.
-- Optimized Billings and Information Technology configuration for internal usage
-- Performed cost analysis on expense reports and managed generated revenue
-- Structured internal financial accounts and reported cash flow to CEO & CFO
+- Cultivated a welcoming and exceptional golfing experience for members and guests, achieving a 15% increase in positive customer satisfaction ratings.
+- Enhanced operational efficiency by completing comprehensive training programs in Accessibility (AODA), Customer Service, Heat Stress Management, Health & Safety procedures, and WHMIS (hazardous materials).
+- Streamlined club operations by skillfully operating equipment (e.g., golf carts, marshalling vehicles) and ensuring prompt fulfillment of member requests. (~25 requests fulfilled per day on average).
