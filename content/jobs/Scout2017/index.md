@@ -1,13 +1,13 @@
 ---
 date: '3'
-title: 'Owner & Founder'
-company: 'OverClocked Services'
+title: 'Specialist'
+company: 'Apple Inc.'
 location: 'Toronto, Ontario'
-range: 'January 2021 - Present'
-url: 'https://overclockedservices.ca/'
+range: 'August 2024 - Present'
+url: 'https://www.apple.com/ca/'
 ---
 
-- Led a team of network specialists in successfully delivering and managing client-server setups, ensuring 100% client satisfaction. 
-- Developed and presented strategic proposals for server hosting and design solutions, resulting in 25 new client acquisitions.
-- Optimized network performance and service uptime through proactive maintenance strategies, achieving a 30% reduction in downtime incidents.
-- Implemented efficient project management practices, prioritizing tasks, and ensuring project completion within deadlines and budget constraints.
+- Delivering exceptional customer service, achieving a 91+ Net Promoter Score while serving ~30+ customers daily. 
+- Proficiently processing a high volume of carrier activations and business transactions with accuracy and efficiency. 
+- Cultivated strong customer relationships to drive sales and foster loyalty, through processing various transactions and offering complete solutions.
+- Effectively utilized product knowledge and Apple systems to maximize sales and provide technical support.

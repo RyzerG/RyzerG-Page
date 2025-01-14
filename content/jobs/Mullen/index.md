@@ -1,13 +1,13 @@
 ---
 date: '1'
-title: 'Freelance Developer'
-company: 'Fiverr International Ltd.'
-location: 'Remote'
-range: 'August 2020 - February 2022'
-url: 'https://fiverr.com/'
+title: 'Order Picker'
+company: 'SVP Sports'
+location: 'Newmarket'
+range: 'April 2024 - May 2024'
+url: 'https://www.svpsports.ca/'
 ---
 
-- Designed and implemented robust Java Server environments for 23 client development projects, ensuring scalability and performance for their applications.
-- Successfully boosted client project completion rates by 18% through efficient development practices and proactive problem-solving.
-- Enhanced client web and communication platforms by contributing to new projects, resulting in improved user experience and functionality.
-- Streamlined online business operations for clients by integrating over 7 payment gateways, facilitating a 32% increase in secure transaction processing.
+- Efficiently fulfilled 20+ customer orders daily, ensuring accurate product selection and timely preparation for shipment.
+- Demonstrated proficiency in operating picker equipment and inventory management software to maintain inventory accuracy and streamline order processing.
+- Consistently executed closing cleaning routines to uphold a safe and organized warehouse environment, contributing to team productivity.
+- Maintained a 98% order accuracy rate, minimizing errors and ensuring fulfillment staff received correct items shipped to customers across Canada.
