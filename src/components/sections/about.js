@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Python', 'HTML/CSS', 'AWS', 'Node.js', 'Adobe CS'];
+  const skills = ['JavaScript', 'Python', 'C', 'AWS', 'Java', 'MySQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,8 +144,8 @@ const About = () => {
 
             <p>
               Moving to the present, and I’ve had the privilege of working at{' '}
-              <a href="https://currentmotors.ca/">an automotive startup</a>,{' '}
-              <a href="https://fiverr.com/">a freelancing company</a>, and{' '}
+              <a href="https://www.apple.com/ca/">Apple Canada</a>,{' '}
+              <a href="https://svpsports.ca/">a sports retailer</a>, and{' '}
               <a href="https://overclockedservices.ca/">my own organization</a>.{' '} My
               main goals today is making open source projects, new platforms and premium digital
               spaces at <a href="https://overclockedservices.ca/">OCS</a> for a large scale of
