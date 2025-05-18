@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Python', 'C', 'AWS', 'Java', 'MySQL'];
+  const skills = ['JavaScript', 'Python', 'C/C#', 'AWS', 'Java', 'MySQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,15 +137,15 @@ const About = () => {
           <div>
             <p>
               Hi There! My name is Rohan and I enjoy the world of technology and innovation. My
-              interest in tech started around 2015 when I decided to try make custom chat bots
+              interest in tech started around 2015 when I decided to try building PCs from scratch
               — and after a few revisions and fun experiences, I was able to confidently say tech was my passion
               and I love code!
             </p>
 
             <p>
               Moving to the present, and I’ve had the privilege of working at{' '}
-              <a href="https://www.apple.com/ca/">Apple Canada</a>,{' '}
-              <a href="https://svpsports.ca/">a sports retailer</a>, and{' '}
+              <a href="https://www.apple.com/ca/">Apple</a>,{' '}
+              <a href="https://staples.ca/">a wireless store</a>, and{' '}
               <a href="https://overclockedservices.ca/">my own organization</a>.{' '} My
               main goals today is making open source projects, new platforms and premium digital
               spaces at <a href="https://overclockedservices.ca/">OCS</a> for a large scale of

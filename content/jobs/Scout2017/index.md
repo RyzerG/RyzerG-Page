@@ -3,7 +3,7 @@ date: '3'
 title: 'Specialist'
 company: 'Apple Inc.'
 location: 'Toronto, Ontario'
-range: 'August 2024 - Present'
+range: 'August 2024 - February 2025'
 url: 'https://www.apple.com/ca/'
 ---
 
