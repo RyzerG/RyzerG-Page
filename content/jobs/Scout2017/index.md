@@ -9,6 +9,5 @@ url: 'https://www.apple.com/ca/'
 
 - Delivered exceptional customer service, achieving a 91+ Net Promoter Score while serving ~55+ customers daily.
 - Proficiently processed a high volume of carrier activations and business transactions with accuracy and efficiency.
-- Cultivated strong customer relationships to drive sales and foster loyalty, through processing various
-transactions and offering complete solutions.
+- Cultivated strong customer relationships to drive sales and foster loyalty, through processing various transactions and offering complete solutions.
 - Effectively utilized product knowledge and Apple systems to maximize sales and provide technical support.
