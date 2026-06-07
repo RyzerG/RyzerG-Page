@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'Python', 'C/C#', 'AWS', 'Java', 'MySQL'];
+  const skills = ['JavaScript', 'Python', 'C/C#', 'AWS', 'Java', 'MySQL', 'Node.js', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,10 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi There! My name is Rohan and I enjoy the world of technology and innovation. My
-              interest in tech started around 2015 when I decided to try building PCs from scratch
-              — and after a few revisions and fun experiences, I was able to confidently say tech was my passion
-              and I love code!
+              Hi there! I'm Rohan, an Honours B.Sc. student at the University of Toronto studying Computer Science, Psychology, and Logic. My tech journey started around 2015 with building PCs from scratch, which naturally evolved into a deep passion for writing code and building software projects using Java and Python.
             </p>
 
             <p>
